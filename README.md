@@ -11,3 +11,6 @@
   methods.
   
   ![image](https://user-images.githubusercontent.com/7030174/153766611-aa91f82f-cc91-4665-b460-b188db967e1a.png)
+  
+  ![image](https://user-images.githubusercontent.com/7030174/153766706-219bb9df-fcfe-4c6d-997f-4fb2a03de319.png)
+
