@@ -9,3 +9,5 @@
   medical area. The experimental results show that our model
   is able to achieve a superior performance than these existing
   methods.
+  
+  ![image](https://user-images.githubusercontent.com/7030174/153766611-aa91f82f-cc91-4665-b460-b188db967e1a.png)
